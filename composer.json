@@ -1,0 +1,6 @@
+{
+    "name": "sample_test",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4.6"
+    }
+}

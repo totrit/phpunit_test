@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<dataset>
+    <dogs name="Bailey" breed="Bulldog" owner="Hillary Clinton"/>
+    <dogs name="Buddy" breed="Boxer" owner="Hillary Clinton"/>
+    <dogs name="Max" breed="Corgi" owner="Donald Trump"/>
+    <owners name="Hillary Clinton" email="hrod17@clintonemail.com"/>
+</dataset>
