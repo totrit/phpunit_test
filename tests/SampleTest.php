@@ -1,4 +1,6 @@
 <?php
+require_once('./vendor/autoload.php');
+
 class DogsTest extends PHPUnit_Extensions_Database_TestCase
 {
     // Helper function: compare
